@@ -6,9 +6,32 @@
       "descricao": "Lugares para fazer compras e passear"
     },
     {
-      "nome": "Restaurantes Atualizado",
-      "descricao": "Lugares para alimentação",
-      "id": "730b"
+      "id": "1578",
+      "nome": "Praias",
+      "descricao": "Lugares para tomar banho de mar com a família"
+    },
+    {
+      "id": "12rf",
+      "nome": "Parques",
+      "descricao": "Lugares para caminhar"
+    }
+  ],
+  "lugares": [
+    {
+      "id": "bb90",
+      "nome": "Praia do Zé",
+      "categoria": "Praias",
+      "localizacao": "Rio de Janeiro",
+      "urlFoto": "https://lh5.googleusercontent.com/p/AF1QipObZreCxy_wtrpl6H3m68AYT7QMk3ii-72323bS=s1600",
+      "avaliacao": "4"
+    },
+    {
+      "id": "12cf",
+      "nome": "Praia Camurupim",
+      "categoria": "Praias",
+      "localizacao": "Rio Grande do Norte",
+      "urlFoto": "https://www.melhoresdestinos.com.br/wp-content/uploads/2021/07/praia-bonita-resort-rn-capa-2021.jpg",
+      "avaliacao": "3"
     }
   ]
 }
