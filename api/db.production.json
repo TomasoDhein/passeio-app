@@ -1,0 +1,29 @@
+{
+  "categorias": [
+    {
+      "id": "2",
+      "nome": "Shopping",
+      "descricao": "Lugares para fazer compras e passear"
+    },
+    {
+      "id": "1578",
+      "nome": "Praias",
+      "descricao": "Lugares para tomar banho de mar com a família"
+    },
+    {
+      "id": "12rf",
+      "nome": "Parques",
+      "descricao": "Lugares para caminhar"
+    }
+  ],
+  "lugares": [
+    {
+      "id": "bb90",
+      "nome": "Praia do Encanto",
+      "categoria": "Praias",
+      "localizacao": "Rio de Janeiro",
+      "urlFoto": "https://lh5.googleusercontent.com/p/AF1QipObZreCxy_wtrpl6H3m68AYT7QMk3ii-72323bS=s1600",
+      "avaliacao": "4"
+    }
+  ]
+}

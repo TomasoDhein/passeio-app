@@ -32,6 +32,22 @@
       "localizacao": "Rio Grande do Norte",
       "urlFoto": "https://www.melhoresdestinos.com.br/wp-content/uploads/2021/07/praia-bonita-resort-rn-capa-2021.jpg",
       "avaliacao": "3"
+    },
+    {
+      "nome": "Bourbon Shopping Novo Hamburgo",
+      "categoria": "Shopping",
+      "localizacao": "Novo Hamburgo - RS",
+      "urlFoto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/98/72/88/foto-da-entrada-do-shopping.jpg",
+      "avaliacao": "5",
+      "id": "IPmHG4j"
+    },
+    {
+      "nome": "Ibirapuera",
+      "categoria": "Parques",
+      "localizacao": "São Paulo - SP",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/1/11/Parque_do_ibirapuera_visto_do_c%C3%A9u.jpg",
+      "avaliacao": "4",
+      "id": "DM-78GU"
     }
   ]
 }
